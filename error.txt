@@ -1,0 +1,8 @@
+Executing script: D:\Repositories\twilioquest\pythonic\functions.py
+Script arguments: 
+Output:
+Traceback (most recent call last):
+  File "D:\Repositories\twilioquest\pythonic\functions.py", line 6, in <module>
+    hail_friend(sys.argv[1])
+IndexError: list index out of range
+
